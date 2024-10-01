@@ -1,3 +1,21 @@
+HR Data Analysis
+##  HR DATA ANALYSIS
+                                    The HR department plays a critical role in every organization, handling various responsibilities from recruitment to employee well-being. Due to the 
+                                    complexity and volume of their tasks, HR professionals often face challenges in managing their workload and making informed decisions in real time, 
+                                    especially in the face of volatile market conditions.
+## Problem Statement:
+                                     Market fluctuations and rapidly evolving technology have significantly impacted the global job market. Many employees are seeking flexible work                                           conditions and job security, leading to high employee turnover. HR departments worldwide are under pressure to hire new employees while retaining                                          existing ones. They also need to understand the reasons behind employee separations to improve retention strategies. To address these challenges, HR                                       departments rely on analytics to gain insights into their workforce and make informed decisions.
+
+
+ 
+ ## Solution Approach:
+                                    To address these challenges, an HR Analysis Dashboard was developed using Power BI. The dashboard provides key insights such as the number of active                                       employees, employee separations, and new hires by region and age group. It also allows HR professionals to analyze trends over time and by specific                                         demographics, enabling them to make data-driven decisions. The dashboard includes visualizations that display:
+                                    - Active employees by gender and region.
+                                    - Employee separations by region and age group.
+                                    - New hires by region and gender over time.
+
+                                    This approach helps HR teams to better understand their workforce dynamics, predict future trends, and implement strategies to improve employee                                             retention and overall HR efficiency.
+
 -------REW  Dashboard :
  ## REW Retail Inc. Ltd operates globally, with subsidiaries across various regions, selling products to a diverse customer base.
  To better manage and analyze their operations, they require a consolidated Power BI dashboard that meets specific business needs.
@@ -40,22 +58,6 @@ The final Sales Dashboard provides a detailed summary of key performance indicat
 4. **Regional Contributions**: Visuals illustrating the contribution of different regions to overall sales and profit, enabling regional performance comparisons.
 5. **Top 5 Regional Managers by Sales**: A visual ranking the top-performing regional managers, providing insights into leadership and team performance.
 
-HR Data Analysis
-##  HR DATA ANALYSIS
-                                    The HR department plays a critical role in every organization, handling various responsibilities from recruitment to employee well-being. Due to the 
-                                    complexity and volume of their tasks, HR professionals often face challenges in managing their workload and making informed decisions in real time, 
-                                    especially in the face of volatile market conditions.
-## Problem Statement:
-                                     Market fluctuations and rapidly evolving technology have significantly impacted the global job market. Many employees are seeking flexible work                                           conditions and job security, leading to high employee turnover. HR departments worldwide are under pressure to hire new employees while retaining                                          existing ones. They also need to understand the reasons behind employee separations to improve retention strategies. To address these challenges, HR                                       departments rely on analytics to gain insights into their workforce and make informed decisions.
 
-
- 
- ## Solution Approach:
-                                    To address these challenges, an HR Analysis Dashboard was developed using Power BI. The dashboard provides key insights such as the number of active                                       employees, employee separations, and new hires by region and age group. It also allows HR professionals to analyze trends over time and by specific                                         demographics, enabling them to make data-driven decisions. The dashboard includes visualizations that display:
-                                    - Active employees by gender and region.
-                                    - Employee separations by region and age group.
-                                    - New hires by region and gender over time.
-
-                                    This approach helps HR teams to better understand their workforce dynamics, predict future trends, and implement strategies to improve employee                                             retention and overall HR efficiency.
                                 
 
